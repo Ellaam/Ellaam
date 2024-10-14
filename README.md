@@ -16,7 +16,7 @@ A simple clone of the classic game "Space Invaders" using C++ and SDL. Features 
 ### [2. WGUPS Package Delivery System](https://github.com/ElhamPazhakh/WGUPS-Package-Delivery)
 An optimization project that utilizes Nearest Neighbor and 2-Opt algorithms to optimize package delivery routes. Built in Python.
 
-### [3. Scheduling desktop application](https://github.com/ElhamPazhakh/Scheduling-desktop-application)
+### [3. Scheduling desktop application](https://github.com/Ellaam/Scheduling-Desktop-Application/tree/main)
 A GUI-based scheduling application developed in Java, leveraging MySQL for data management. It includes features for user authentication, appointment management, and customizable reporting, supporting multiple languages and advanced exception handling for a robust user experience.
 
 ### [4. Image Loader](https://github.com/ElhamPazhakh/Image-loader)
