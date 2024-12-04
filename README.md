@@ -13,7 +13,7 @@ Hi! I'm Elham, a Computer Science student transitioning from digital marketing t
 ### [1. Space Invaders Game](https://github.com/ElhamPazhakh/Space-Invaders)
 A simple clone of the classic game "Space Invaders" using C++ and SDL. Features include enemy AI, scoring, and multiple levels.
 
-### [2. Pacman Game](https://github.com/ElhamPazhakh/Space-Invaders)
+### [2. Pacman Game](https://github.com/Ellaam/Pacman.git)
 A clone of the classic game "Pacman" using C++ and SFML.
 
 ### [3. WGUPS Package Delivery System](https://github.com/ElhamPazhakh/WGUPS-Package-Delivery)
