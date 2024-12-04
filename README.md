@@ -13,13 +13,16 @@ Hi! I'm Elham, a Computer Science student transitioning from digital marketing t
 ### [1. Space Invaders Game](https://github.com/ElhamPazhakh/Space-Invaders)
 A simple clone of the classic game "Space Invaders" using C++ and SDL. Features include enemy AI, scoring, and multiple levels.
 
-### [2. WGUPS Package Delivery System](https://github.com/ElhamPazhakh/WGUPS-Package-Delivery)
+### [2. Pacman Game](https://github.com/ElhamPazhakh/Space-Invaders)
+A clone of the classic game "Pacman" using C++ and SFML.
+
+### [3. WGUPS Package Delivery System](https://github.com/ElhamPazhakh/WGUPS-Package-Delivery)
 An optimization project that utilizes Nearest Neighbor and 2-Opt algorithms to optimize package delivery routes. Built in Python.
 
-### [3. Scheduling desktop application](https://github.com/Ellaam/Scheduling-Desktop-Application/tree/main)
+### [4. Scheduling desktop application](https://github.com/Ellaam/Scheduling-Desktop-Application/tree/main)
 A GUI-based scheduling application developed in Java, leveraging MySQL for data management. It includes features for user authentication, appointment management, and customizable reporting, supporting multiple languages and advanced exception handling for a robust user experience.
 
-### [4. Image Loader](https://github.com/ElhamPazhakh/Image-loader)
+### [5. Image Loader](https://github.com/ElhamPazhakh/Image-loader)
 A C++ application for loading and saving PPM image files with pixel manipulation capabilities, allowing for adjustments such as lightening and darkening images.
 
 ## 🌱 Why Software Engineering?
