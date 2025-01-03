@@ -10,7 +10,7 @@ Hi! I'm Elham, a Computer Science student transitioning from digital marketing t
 
 ## 🚀 Portfolio Projects
 
-### [1. Space Invaders Game](https://github.com/ElhamPazhakh/Space-Invaders)
+### [1. Space Invaders Game](https://github.com/Ellaam/space-invaders.git)
 A simple clone of the classic game "Space Invaders" using C++ and SDL. Features include enemy AI, scoring, and multiple levels.
 
 ### [2. Pacman Game](https://github.com/Ellaam/Pacman.git)
