@@ -30,7 +30,7 @@ I'm currently transitioning from digital marketing to software engineering becau
 
 ## 📫 Get in Touch
 - LinkedIn: [linkedin.com/in/elham-pazhakh](https://linkedin.com/in/elham-pazhakh)
-- Email: elham.pazhakh@example.com
+- Email: elham.pazhakh@gmail.com
 
 ## 🎮 Fun Facts
 - I'm currently developing a small 2D platformer game as a side project.
