@@ -33,6 +33,5 @@ I'm currently transitioning from digital marketing to software engineering becau
 - Email: elham.pazhakh@gmail.com
 
 ## 🎮 Fun Facts
-- I'm currently developing a small 2D platformer game as a side project.
-- When I'm not coding, I love exploring new indie games and learning how they're made.
+- 
 
