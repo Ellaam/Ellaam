@@ -10,11 +10,11 @@ Hi! I'm Elham, a Computer Science student transitioning from digital marketing t
 
 ## 🚀 Portfolio Projects 
 
-### [1. Space Invaders Game](https://github.com/Ellaam/space-invaders.git)
-A simple clone of the classic game "Space Invaders" using C++ and SDL. Features include enemy AI, scoring, and multiple levels.
-
-### [2. Pacman Game](https://github.com/Ellaam/Pacman.git)
+### [1. Pacman Game](https://github.com/Ellaam/Pacman.git)
 A clone of the classic game "Pacman" using C++ and SFML.
+
+### [2. Space Invaders Game](https://github.com/Ellaam/space-invaders.git)
+A simple clone of the classic game "Space Invaders" using C++ and SDL. Features include enemy AI, scoring, and multiple levels.
 
 ### [3. WGUPS Package Delivery System](https://github.com/ElhamPazhakh/WGUPS-Package-Delivery)
 An optimization project that utilizes Nearest Neighbor and 2-Opt algorithms to optimize package delivery routes. Built-in Python.
