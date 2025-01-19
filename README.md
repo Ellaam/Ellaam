@@ -1,10 +1,10 @@
 # Elham Pazhakh
-### Aspiring Software Engineer | CS Student (Graduating in 2025)
+### Aspiring Software Engineer | CS Student (Graduating in Jan 2026)
 
 Hi! I'm Elham, a Computer Science student transitioning from digital marketing to a software engineering role. I have a passion for game development and enjoy creating interactive experiences with C++ and Python. I'm actively building my skills in game development and software engineering, and I'm excited to contribute to real-world projects.
 
 ## 🔧 Technologies & Tools
-- **Languages**: C++, Python, HTML/CSS, Java
+- **Languages**: Python, C++, Janva, SQL
 - **Game Development**: SDL, SFML
 
 
@@ -17,7 +17,7 @@ A simple clone of the classic game "Space Invaders" using C++ and SDL. Features 
 A clone of the classic game "Pacman" using C++ and SFML.
 
 ### [3. WGUPS Package Delivery System](https://github.com/ElhamPazhakh/WGUPS-Package-Delivery)
-An optimization project that utilizes Nearest Neighbor and 2-Opt algorithms to optimize package delivery routes. Built in Python.
+An optimization project that utilizes Nearest Neighbor and 2-Opt algorithms to optimize package delivery routes. Built-in Python.
 
 ### [4. Scheduling desktop application](https://github.com/Ellaam/Scheduling-Desktop-Application/tree/main)
 A GUI-based scheduling application developed in Java, leveraging MySQL for data management. It includes features for user authentication, appointment management, and customizable reporting, supporting multiple languages and advanced exception handling for a robust user experience.
