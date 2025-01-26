@@ -32,6 +32,5 @@ I'm currently transitioning from digital marketing to software engineering becau
 - LinkedIn: [linkedin.com/in/elham-pazhakh](https://linkedin.com/in/elham-pazhakh)
 - Email: elham.pazhakh@gmail.com
 
-## 🎮 Fun Facts
-- 
+
 
