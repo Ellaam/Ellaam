@@ -14,7 +14,7 @@ Hi! I'm Elham, a Computer Science student transitioning from digital marketing t
 A clone of the classic game "Pacman" using C++ and SFML.
 
 ### [2. Space Invaders Game](https://github.com/Ellaam/space-invaders.git)
-A simple clone of the classic game "Space Invaders" using C++ and SDL. Features include enemy AI, scoring, and multiple levels.
+A clone of the classic game "Space Invaders" using C++ and SDL. Features include enemy AI, scoring, and multiple levels.
 
 ### [3. Scheduling desktop application](https://github.com/Ellaam/Scheduling-Desktop-Application/tree/main)
 A GUI-based scheduling application developed in Java, leveraging MySQL for data management. It includes features for user authentication, appointment management, and customizable reporting, supporting multiple languages and advanced exception handling for a robust user experience.
