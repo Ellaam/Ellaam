@@ -4,7 +4,7 @@
 Hi! I'm Elham, a Computer Science student transitioning from digital marketing to a software engineering role. I have a passion for game development and enjoy creating interactive experiences with C++ and Python. I'm actively building my skills in game development and software engineering, and I'm excited to contribute to real-world projects.
 
 ## 🔧 Technologies & Tools
-- **Languages**: Python, C++, Janva, SQL
+- **Languages**: Python, C++, Java, SQL
 - **Game Development**: SDL, SFML
 
 
