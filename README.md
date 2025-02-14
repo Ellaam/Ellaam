@@ -19,9 +19,6 @@ A clone of the classic game "Space Invaders" using C++ and SDL. Features include
 ### [3. Scheduling desktop application](https://github.com/Ellaam/Scheduling-Desktop-Application/tree/main)
 A GUI-based scheduling application developed in Java, leveraging MySQL for data management. It includes features for user authentication, appointment management, and customizable reporting, supporting multiple languages and advanced exception handling for a robust user experience.
 
-### [4. Image Loader](https://github.com/ElhamPazhakh/Image-loader)
-A C++ application for loading and saving PPM image files with pixel manipulation capabilities, allowing for adjustments such as lightening and darkening images.
-
 ## 🌱 Why Software Engineering?
 I'm currently transitioning from digital marketing to software engineering because I found my passion lies in building software and solving technical challenges. Throughout my marketing career, I have led various projects, collaborated across departments, and effectively communicated complex concepts to diverse audiences. These experiences have honed my analytical mindset and enhanced my ability to approach creative projects, which I believe are valuable assets in software development.
 
